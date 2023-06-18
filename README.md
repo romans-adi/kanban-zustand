@@ -41,6 +41,7 @@ This project is a Kanban board implementation using Zustand React State Manageme
   <ul>
      <li><a href="https://react.dev/">React</a></li>
       <li><a href="https://github.com/pmndrs/zustand">Zustand</a></li>
+      <li><a href="https://vitejs.dev/">Vite</a></li>
       <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a></li>
       <li><a href="https://www.javascript.com/">JavaScript</a></li>
       <li><a href="https://sass-lang.com/">SCSS</a></li>
