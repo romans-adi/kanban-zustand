@@ -14,11 +14,24 @@
     display: flex;
     justify-content: space-between;
 
-    .STATUS {
+    .status {
       font-size: small;
       background: $grey-light;
       padding: 0.5rem;
       border-radius: 4px;
+
+    &.PLANNED {
+      background: $grey-light;
+    }
+
+    &.ONGOING {
+      background-color: $ongoing;
+    }
+
+    &.DONE {
+      background-color: $done;
+    }
+
     }
   }
 }

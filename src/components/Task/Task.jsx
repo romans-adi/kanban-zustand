@@ -1,7 +1,8 @@
 import PropTypes from 'prop-types';
 import './Task.scss'
+import classNames from 'classnames';
 
-const STATUS = 'PLANNED';
+const STATUS = 'ONGOING';
 
 const Task = ( {title} ) => {
   return (
@@ -9,7 +10,7 @@ const Task = ( {title} ) => {
       <div>{title}</div>
     <div className="bottom-wrapper">
     <div className=""/>
-    <div className="STATUS">{ STATUS }</div>
+    <div className={classNames("status", STATUS)}>{ STATUS }</div>
     </div>
     </div>
   )
