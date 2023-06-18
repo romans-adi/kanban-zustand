@@ -9,5 +9,15 @@
 .App {
   background-color: $grey;
   min-height: 100vh;
-  font-family: 'Amaranth', sans-serif;
+  font-family: 'Bangers', cursive;
+}
+
+.custom-col {
+  color: #fff;
+  background-color: $grey-dark;
+  min-height: 20rem;
+  max-width: 20rem;
+  margin: 0 1rem;
+  border-radius: 4px;
+  padding: 0.5rem;
 }
