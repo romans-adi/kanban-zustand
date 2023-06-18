@@ -42,10 +42,8 @@ This project is a Kanban board implementation using Zustand React State Manageme
      <li><a href="https://react.dev/">React</a></li>
       <li><a href="https://github.com/pmndrs/zustand">Zustand</a></li>
       <li><a href="https://vitejs.dev/">Vite</a></li>
-      <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a></li>
-      <li><a href="https://www.javascript.com/">JavaScript</a></li>
+      <li><a href="https://ant.design">Ant Design</a></li>
       <li><a href="https://sass-lang.com/">SCSS</a></li>
-      <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
   </ul>
 
 Feel free to modify or expand the tech stack section based on the specific technologies you're using in your project.
@@ -151,6 +149,7 @@ Furthermore, if you would like to get in touch with me, you can find my contact 
 I would like to thank the following individuals and projects for their contributions and inspiration:
 
 - [Zustand](https://github.com/pmndrs/zustand) - Zustand React state management library.
+- [Ant Design](https://ant.design) - UI library that provides pre-designed components and patterns.
 
 <!-- AUTHORS -->
 
