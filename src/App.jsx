@@ -6,7 +6,8 @@ import { shallow } from 'zustand/shallow';
 
 function App() {
   const tasks = useStore((store) =>
-  store.tasks.filter((task) => task.state === 'PLANNED'), shallow);
+  store.tasks.filter((task) => task.state === 'PLANNED'),
+   shallow);
 
   return (
     <div className="App">

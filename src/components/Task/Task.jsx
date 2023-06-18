@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import './Task.scss'
 import classNames from 'classnames';
 
-const STATUS = 'ONGOING';
+const STATUS = 'PLANNED';
 
 const Task = ( {title} ) => {
   return (
