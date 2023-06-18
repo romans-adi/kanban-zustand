@@ -10,17 +10,17 @@ This project is a Kanban board implementation using Zustand React State Manageme
 
 ## Table of Contents
 
-- [Tech Stack ](#tech-stack-)
-- [Key Features ](#key-features-)
-- [Getting Started ](#-getting-started-)
+- [Tech Stack ](#tech-stack)
+- [Key Features ](#key-features)
+- [Getting Started ](#getting-started)
   - [Installation](#installation)
   - [Setup](#setup)
   - [Usage](#usage)
-- [Contributing ](#-contributing-)
-- [License ](#-license-)
-- [Acknowledgments ](#-acknowledgments-)
-- [Support ](#️-support-)
-- [Authors ](#-authors-)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgements)
+- [Support](#support)
+- [Authors](#authors)
 
 <!-- Features -->
 
@@ -73,15 +73,15 @@ Clone the project using one of the options.
 
 Using SSH-key:
 
-> git clone git@github.com:romans-adi/kanban-zustand.git
+> git clone git<span></span>@github.com:romans-adi/kanban-zustand.git
 
 Using HTTPS:
 
-> git clone https://github.com/romans-adi/kanban-zustand.git
+> git clone https://<span></span>github.com/romans-adi/kanban-zustand.git
 
 You can also create the new directory just adding the name of it in the end of command. For example:
 
-> git clone https://github.com/romans-adi/kanban-zustand.git kanban-board
+> git clone https://<span></span>github.com/romans-adi/kanban-zustand.git kanban-board
 
 ### Installation <a name="installation"></a>
 
@@ -89,7 +89,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-> git clone https://github.com/romans-adi/kanban-zustand.git
+> git clone https://<span></span>github.com/romans-adi/kanban-zustand.git
 
 2. Install dependencies:
 
@@ -100,7 +100,7 @@ To run this project locally, follow these steps:
 
 > npm start
 
-4. Open your browser and navigate to http://localhost:3000 to access the Kanban board.
+4. Open your browser and navigate to **http://<span></span>localhost:3000** to access the Kanban board.
 
 ### Usage <a name="usage"></a>
 
@@ -144,6 +144,7 @@ Furthermore, if you would like to get in touch with me, you can find my contact 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
+
 ## Acknowledgements <a name="acknowledgements"></a>
 
 I would like to thank the following individuals and projects for their contributions and inspiration:
